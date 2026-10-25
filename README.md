@@ -1,5 +1,11 @@
 # mck-rag-case-study
 
+*Portfolio artifact 2 — engineering case study of a production RAG system over UN-Habitat SDG 11 documentation; Python.*
+
+![category](https://img.shields.io/badge/category-data-science-0EA5E9?style=flat-square) ![language](https://img.shields.io/badge/language-Python-2563EB?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-16A34A?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-active-16A34A?style=flat-square) ![repo](https://img.shields.io/badge/repo-mck--rag--case--study-111827?style=flat-square)
+
+---
+
 Engineering case study: a production retrieval-augmented generation system over UN-Habitat SDG 11 documentation. Portfolio artifact 2 of 3.
 
 The implementation code lives in [sdg-rag-system](https://github.com/collins-muchiri/sdg-rag-system). This repository holds the case study: what was built, why each choice was made, what it cost, and what broke first.
@@ -40,3 +46,7 @@ UN-Habitat SDG 11 documentation is public. No client, beneficiary or personal da
 ## Licence
 
 MIT. See LICENSE.
+
+## Contribution and license
+
+Issues and pull requests are welcome — please open an issue describing the proposed change before submitting substantive work. This project is released under the MIT License.
